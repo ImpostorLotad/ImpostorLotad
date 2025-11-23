@@ -13,7 +13,7 @@ Aunque mi fuerte está en el **desarrollo web full-stack**, tengo un sueño que 
 - 🧩 Amante de **Minecraft**, **Hytale** y del modding.  
 - 🎮 Súper fan de franquicias de videojuegos y profundamente enamorado de los **juegos indie**.  
 - 📚 Siempre aprendiendo tecnologías nuevas.  
-- ☕ Productivo con una taza de café (o dos).
+- 👀 Productivo con una coca cola bien fria.
 
 ---
 
