@@ -23,13 +23,11 @@ Aunque mi fuerte está en el **desarrollo web full-stack**, tengo un sueño que 
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge)
 
 ### 🔧 Otros lenguajes y stacks que uso
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white&style=for-the-badge)
 
 ### 🗃️ Bases de datos
 
